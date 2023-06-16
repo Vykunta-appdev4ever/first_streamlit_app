@@ -38,7 +38,7 @@ try:
     
     
 except URLError as e:
-streamlit.stop()
+ streamlit.stop()
 
 
 #requirements.txt
